@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gerenciador-de-tarefas-anuncio/precache-manifest.db9bc321aa676c43cb1af1cd9ecc7417.js"
+  "/gerenciador-de-tarefas-anuncio/precache-manifest.c98d6e063b2e8b0c348078b0000cb195.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spa"});
