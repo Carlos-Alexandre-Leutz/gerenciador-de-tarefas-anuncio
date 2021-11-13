@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gerenciador-de-tarefas-anuncio/precache-manifest.c98d6e063b2e8b0c348078b0000cb195.js"
+  "/gerenciador-de-tarefas-anuncio/precache-manifest.2c052dc89aa9f9f7ff5dfdeefbe882a0.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "spa"});
+workbox.core.setCacheNameDetails({prefix: "ERP"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
