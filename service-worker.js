@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gerenciador-de-tarefas-anuncio/precache-manifest.2c052dc89aa9f9f7ff5dfdeefbe882a0.js"
+  "/gerenciador-de-tarefas-anuncio/precache-manifest.3481de70f6d235207387203b0825249e.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "ERP"});
