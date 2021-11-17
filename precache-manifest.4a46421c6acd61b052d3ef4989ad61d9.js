@@ -1,7 +1,7 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97dd00c9c9a85f1b3c1a",
-    "url": "/gerenciador-de-tarefas-anuncio/css/app.57221156.css"
+    "revision": "1ab3c87042f8d32dbf17",
+    "url": "/gerenciador-de-tarefas-anuncio/css/app.8329c108.css"
   },
   {
     "revision": "01b04f3f182d42d3d9d0",
@@ -24,12 +24,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gerenciador-de-tarefas-anuncio/css/chunk-ee7c7070.8971f386.css"
   },
   {
-    "revision": "ca4aa937fb32a6e2ec02e83b839e55d6",
+    "revision": "d6c4da3ee0623d9579c0916d206f5361",
     "url": "/gerenciador-de-tarefas-anuncio/index.html"
   },
   {
-    "revision": "97dd00c9c9a85f1b3c1a",
-    "url": "/gerenciador-de-tarefas-anuncio/js/app.913a73f2.js"
+    "revision": "1ab3c87042f8d32dbf17",
+    "url": "/gerenciador-de-tarefas-anuncio/js/app.fb5eec1e.js"
   },
   {
     "revision": "01b04f3f182d42d3d9d0",
