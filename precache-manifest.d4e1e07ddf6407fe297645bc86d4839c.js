@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a23003fb97e72523bccd",
+    "revision": "03c906e4aa47c5bbd039",
     "url": "/gerenciador-de-tarefas-anuncio/css/app.8329c108.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gerenciador-de-tarefas-anuncio/css/chunk-4fd813ed.f3ef123a.css"
   },
   {
-    "revision": "53108e43ac76a87878d8",
-    "url": "/gerenciador-de-tarefas-anuncio/css/chunk-5b3b4d61.d03c6290.css"
+    "revision": "dfa0d0487d66d27fd154",
+    "url": "/gerenciador-de-tarefas-anuncio/css/chunk-b9ca649c.d03c6290.css"
   },
   {
     "revision": "f78d0f234e30ae094559",
@@ -28,12 +28,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gerenciador-de-tarefas-anuncio/css/chunk-f37c8b6c.4158433a.css"
   },
   {
-    "revision": "1fd0d4e684463675b8342a69dbcbd573",
+    "revision": "366993fbb97992066ef73ce6518ccd79",
     "url": "/gerenciador-de-tarefas-anuncio/index.html"
   },
   {
-    "revision": "a23003fb97e72523bccd",
-    "url": "/gerenciador-de-tarefas-anuncio/js/app.6f63fceb.js"
+    "revision": "03c906e4aa47c5bbd039",
+    "url": "/gerenciador-de-tarefas-anuncio/js/app.0d1f3f2b.js"
   },
   {
     "revision": "98d58d5fbd9f73046cfb",
@@ -68,12 +68,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gerenciador-de-tarefas-anuncio/js/chunk-4fd813ed.68e6d969.js"
   },
   {
-    "revision": "53108e43ac76a87878d8",
-    "url": "/gerenciador-de-tarefas-anuncio/js/chunk-5b3b4d61.b1b928bf.js"
-  },
-  {
     "revision": "945ebe55b66d6834ef75",
     "url": "/gerenciador-de-tarefas-anuncio/js/chunk-6d11513e.b2e4f84d.js"
+  },
+  {
+    "revision": "dfa0d0487d66d27fd154",
+    "url": "/gerenciador-de-tarefas-anuncio/js/chunk-b9ca649c.8a0d1281.js"
   },
   {
     "revision": "0beb8cf327e6c82509e8",
